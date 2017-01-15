@@ -18,7 +18,7 @@ description: |
    
    **A:** Nope.  You are allowed to miss **1 day in a  two week period**.  Just make it up by adding 1 more day to the end of the 100.  **Never miss 2 days in a row** which means you can't skil the 14th day of a two week period and the 1st day of the next 2 week period.
 
-1. **Q:** I haven't gone to bed yet but it is passed midnight, does it still count if I write?
+1. **Q:** I haven't gone to bed yet but it is after midnight, does it still count if I write?
    
    **A:** Of course!  As long as you write before going to bed.  This allows for different schedules.
 
@@ -57,3 +57,7 @@ description: |
 1.  **Q:** What if I don't have a Facebook or Twitter account, can I still do the challenge?
 
     **A:** You sure can.  Facebook and Twitter is just an easy way to maintain accountability by letting others know about you progress.  Make sure to still track your progress. 
+    
+1. **Q:** What should I track for progress?
+
+    **A:** Word count.  Day you are. What type of writing: blog, short story, novel, journal, etc

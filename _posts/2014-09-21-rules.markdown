@@ -10,6 +10,7 @@ description: |
 * **Time Per Day:** 30 minutes minimum 
 * **Start Date:** Whenever you join the challege, it is individual paced.
 * **Cost:** Totally Free!
-* **Tracking Progress:** Post progress on social media in either our [Facebook Group](https://www.facebook.com/groups/writingfor100days/) or Tweet [@writing100days](https://twitter.com/writing100days).  Make sure to mention which day you are on.
-* **Topic:** Write about anything that you want to write about.  
-* **Word Count:** Keep track of word count each day
+* **Tracking Progress:** Post progress in a public place like our [Facebook Group](https://www.facebook.com/groups/writingfor100days/) or Tweet [@writing100days](https://twitter.com/writing100days).  See FAQ if you don't have Twitter or Facebook. 
+     * Make sure to mention which day you are on.
+* **Topic:** Write about anything that you want to write about. See FAQ for suggestions. 
+
