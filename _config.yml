@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://writingfor100days.com
+title: Writing For 100 Days
+email: writingfor100days@gmail.com
+author: Justin James
+description: > # "Write an awesome description for your new site here. 
+  Join the Writing for 100 Days Challege.  Become a better writer in 30 minutes per day.
+copyright: 'Copyright &copy; 2017 Writing for 100 Days. All Rights Reserved.'
+credits: 'Designed by <a href="http://digitaldrummerj.me">Justin James</a>.<br />Using <a href="https://github.com/swcool/landing-page-theme" target=_blank">Landing Page Theme</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/writing100days
+  - title: facebook
+    url: https://www.facebook.com/groups/writingfor100days/
+
+#favicon generated with canva and http://www.favicon.cc/

@@ -1,0 +1,14 @@
+---
+layout: default
+img: slogan.png
+category: Services
+title: ''
+description: |
+---
+Make writing a habit in 30 minutes per day
+
+Write the novel you always wanted to write
+
+Write 25+ blog post
+
+Write 10 Five to Seven Minutes Speeches        
