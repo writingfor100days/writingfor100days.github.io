@@ -53,3 +53,7 @@ description: |
 1.  **Q:** I tried the challenge and failed to complete it, can I do the challenge again?
 
     **A:** You sure can.  Let us know if there is anything that we can do to help you be successful. 
+
+1.  **Q:** What if I don't have a Facebook or Twitter account, can I still do the challenge?
+
+    **A:** You sure can.  Facebook and Twitter is just an easy way to maintain accountability by letting others know about you progress.  Make sure to still track your progress. 
