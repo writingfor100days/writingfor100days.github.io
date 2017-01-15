@@ -5,4 +5,11 @@ category: Services
 title: Challenge Rules
 description: |
 ---
-  Stay Tuned! They are coming soon.
+
+* **Length:** 100 days
+* **Time Per Day:** 30 minutes minimum 
+* **Start Date:** Whenever you join the challege, it is individual paced.
+* **Cost:** Totally Free!
+* **Tracking Progress:** Post progress on social media in either our [Facebook Group](https://www.facebook.com/groups/writingfor100days/) or Tweet [@writing100days](https://twitter.com/writing100days).  Make sure to mention which day you are on.
+* **Topic:** Write about anything that you want to write about.  
+* **Word Count:** Keep track of word count each day
