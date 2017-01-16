@@ -15,7 +15,8 @@ description: |
 {% endfor %}
 
 
-1. Join the [WritingFor100Days Facebook group]({{ fbUrl }}) where you can safely post your progress and ask any questions that you may have
+1. Join the [Facebook group]({{ fbUrl }}) where you can safely post your progress and ask any questions that you may have
 1. Pick the day you plan on starting your challenge
-1. Start Writing
-1. Publish your daily progress to the [WritingFor100Days Facebook group]({{ fbUrl }}) each day or Tweet to [@writing100days](https://twitter.com/writing100days).
+1. Get a device that you can use to track your time such a kitchen timer, the stopwatch on your phone, or a [Google search timer](https://www.google.com/search?q=timer+30+minutes&oq=timer+30+mi)
+1. Start Writing.  
+1. Publish your daily progress to the [Facebook group]({{ fbUrl }}) each day or Tweet to [@writing100days](https://twitter.com/writing100days).
