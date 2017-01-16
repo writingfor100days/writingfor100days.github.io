@@ -2,13 +2,11 @@
 layout: default
 img: askmorequestions.jpg
 category: Services
-title: 'FAQ'
+title: 'Frequent Questions'
+bannerClass: bannerFaq
+sectionName: faq
 description: |
 ---
-
-1. **Q:** How do I get in touch with the people who are also doing this challenge?
-   
-   **A:** [Join the WritingFor100Days Facebook Group](https://www.facebook.com/groups/writingfor100days/)
 
 1. **Q:** I don't have any ideas to write about but I still want to participate, can you help me with some ideas?
 
@@ -21,6 +19,10 @@ description: |
 1. **Q:** I haven't gone to bed yet but it is after midnight, does it still count if I write?
    
    **A:** Of course!  As long as you write before going to bed.  This allows for different schedules.
+
+1. **Q:** How do I get in touch with the people who are also doing this challenge?
+   
+   **A:** Join the [WritingFor100Days Facebook group](https://www.facebook.com/groups/writingfor100days/) where you can safely post your progress and ask any questions that you may have or checkout our Twitter account [@writing100days](https://twitter.com/writing100days)
 
 1. **Q:** Should I keep a journal?
    
@@ -48,16 +50,16 @@ description: |
    
 1.  **Q:** If I finish 100 days, can I do another 100 days?
 
-    **A:** Totally! You can do the challenge as many times as you want.  
+    **A:** Totally! You can do the challenge as many times as you would like.  
     
-1.  **Q:** I tried the challenge and failed to complete it, can I do the challenge again?
+1.  **Q:** I tried the challenge and failed to complete it, can I try the challenge again?
 
-    **A:** You sure can.  Let us know if there is anything that we can do to help you be successful. 
+    **A:** You sure can.  You can do the challenge as many times as your would like.  Let us know if there is anything that we can do to help you be successful. 
 
 1.  **Q:** What if I don't have a Facebook or Twitter account, can I still do the challenge?
 
-    **A:** You sure can.  Facebook and Twitter is just an easy way to maintain accountability by letting others know about you progress.  Make sure to still track your progress. 
+    **A:** You sure can.  Facebook and Twitter is just an easy way to maintain accountability by letting others know about you progress.  Make sure to still track your progress on your own.  I guarantee though that you will be more successful when you have an accountability partner like you get with the [Facebook group](https://www.facebook.com/groups/writingfor100days/) or tweeting to [@writing100days](https://twitter.com/writing100days). 
     
 1. **Q:** What should I track for progress?
 
-    **A:** Word count.  Day you are. What type of writing: blog, short story, novel, journal, etc
+    **A:** Track daily.  The total word count for the day.  The writing day you are. Type of writing your are doing: blog, short story, novel, journal, etc

@@ -1,0 +1,21 @@
+---
+layout: default
+img: askmorequestions.jpg
+category: Services
+title: 'Start The Challenge'
+bannerClass: bannerJoin
+sectionName: join
+description: |
+---
+
+{% for social in site.social %}
+    {% if social.title == "facebook" %}
+        {% assign fbUrl = social.url %}
+    {% endif %}
+{% endfor %}
+
+
+1. Join the [WritingFor100Days Facebook group]({{ fbUrl }}) where you can safely post your progress and ask any questions that you may have
+1. Pick the day you plan on starting your challenge
+1. Start Writing
+1. Publish your daily progress to the [WritingFor100Days Facebook group]({{ fbUrl }}) each day or Tweet to [@writing100days](https://twitter.com/writing100days).
