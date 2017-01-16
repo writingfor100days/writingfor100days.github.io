@@ -6,12 +6,18 @@ bannerClass: bannerRules
 title: Challenge Rules
 sectionName: rules
 description: |
+    
 ---
+
+The rules are really simple.  The challenge is focused on writing.  Along the way you will need some accountability and motivation help to get through all 100 days which we provide through a Facebook group.  
 
 * **Length:** 100 days
 * **Time Per Day:** 30 minutes minimum 
-* **Start Date:** Whenever you join the challege, it is individual paced
+* **Start Date:** Whenever you join the challege, it is individual paced and you do not have to wait for the group to start.
 * **Cost:** Totally Free!
 * **Tracking Progress:** To help with accountability post progress in a public place like our [Facebook goup](https://www.facebook.com/groups/writingfor100days/) or Tweet to [@writing100days](https://twitter.com/writing100days).  Make sure to mention which day you are on. If you don't have Twitter or Facebook, see the [FAQ #13](#faq).
 * **Topic:** Write about anything that you want to write about. See the [FAQ #1](#faq) for suggestions. 
+* **Age Limit:** There is no age limit.  Anyone is welcome to join
 {:.list-unstyled}
+
+If you have any questions on the rules, please let us know at [writingfor100days@gmail.com](writingfor100days@gmail.com).

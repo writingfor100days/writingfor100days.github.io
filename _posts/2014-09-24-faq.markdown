@@ -63,3 +63,7 @@ description: |
 1. **Q:** What should I track for progress?
 
     **A:** Track daily.  The total word count for the day.  The writing day you are. Type of writing your are doing: blog, short story, novel, journal, etc
+
+1. **Q:** I still have a question that was not answered
+   
+   **A:** Feel free to email us at [writingfor100days@gmail.com](writingfor100days@gmail.com).    
