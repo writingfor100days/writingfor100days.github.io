@@ -14,7 +14,7 @@ description: |
 
 1. **Q:** I missed a day does it mean I have failed the challenge?
    
-   **A:** Nope.  You are allowed to miss **1 day in a  two week period**.  Just make it up by adding 1 more day to the end of the 100.  **Never miss 2 days in a row** which means you can't skil the 14th day of a two week period and the 1st day of the next 2 week period.
+   **A:** Nope.  You are allowed to miss **1 day in a  two week period**.  Just make it up by adding 1 more day to the end of the 100.  **Never miss 2 days in a row** which means you can't skip the 14th day of a two week period and the 1st day of the next 2 week period.
 
 1. **Q:** I haven't gone to bed yet but it is after midnight, does it still count if I write?
    
